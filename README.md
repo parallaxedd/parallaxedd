@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sunsetdevv
-- 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and C#
-- 💞️ I’m looking to collaborate on websites for businesses
+- 👀 I’m interested in game development, composing music, and web development
+- 🌱 I’m currently learning C#, JavaScript, SQL
+- 💞️ I’m looking to collaborate on video games
 - 📫 How to reach me sunsettdevv@gmail.com
 
 <!---
