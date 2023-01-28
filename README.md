@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sunsetdevv
 - 👀 I’m interested in game development, composing music, and web development
-- 🌱 I’m currently learning C#, JavaScript, SQL
-- 💞️ I’m looking to collaborate on video games
+- 🌱 I’m currently learning C#, JavaScript, Lua, and Git
+- 💞️ I’m available to be hired as a discord bot developer
 - 📫 How to reach me sunsettdevv@gmail.com
 
 <!---
