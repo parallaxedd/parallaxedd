@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parallaxedd
-- 👀 I’m interested in game development and web development
-- 🌱 I’m currently learning C#, C++, Lua, and Computer Science
+- 👀 I’m interested in game development, web development, and data science
+- 🌱 I’m currently learning C#, Python, Computer science, and machine learning
 - 💞️ I’m available to be hired as a Discord bot developer
 - 📫 How to reach me sunsettdevv@gmail.com
 
